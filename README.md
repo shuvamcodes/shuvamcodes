@@ -117,10 +117,6 @@
 
 ---
 
-# <p align="center">
-<img src="https://raw.githubusercontent.com/shuvamcodes/shuvamcodes/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 # 📜 Certifications
 
 - 🏅 Frontend Web Development — **SparkIIT**
